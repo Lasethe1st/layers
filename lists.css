@@ -1,0 +1,15 @@
+/* Define styles for list items inside elements with .article attribute to inherit font color from body */
+[neue-list] li {
+  /* Set font color to inherit from body font color */
+  color: inherit;
+  /* Additional styles for list item text inside elements with .article attribute */
+}
+
+
+/* Define styles for list markers */
+ul,
+li,
+ol {
+  /* Your styles here */
+  color: inherit;
+}
