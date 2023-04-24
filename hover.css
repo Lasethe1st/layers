@@ -1,0 +1,9 @@
+/* If body has light-mode class, set hover-link text color to #1d1d1f */
+body.light-mode [hover-link]:not(:active):hover {
+  color: #1d1d1f !important;
+}
+
+/* If body has dark-mode class, set hover-link text color to #f0f0f0 */
+body.dark-mode [hover-link]:not(:active):hover {
+  color: #f0f0f0 !important;
+}
