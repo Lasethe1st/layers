@@ -1,0 +1,11 @@
+[cta] {
+  background-color: transparent;
+  color: var(--body-bg-color);
+  border-color: currentColor;
+}
+
+[link] {
+ background-color: transparent;
+  color: var(--body-bg-color);
+  border-color: currentColor;
+}
